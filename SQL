@@ -4,7 +4,7 @@ INSERT INTO Products
 VALUES
 (1, 'RX580 8 gb'),
 (2, 'Ryzen 5 3600X'),
-(3, 'Seagate 240gb');
+(3, 'Intel i7 12500k');
 
 CREATE TABLE Categories (
 Id INT PRIMARY KEY,
@@ -26,8 +26,8 @@ PRIMARY KEY (ProductId, CategoryId)
 INSERT INTO ProductCategories
 VALUES
 (1, 1),
-(2, 3),
-(3, 3);
+(2, 2),
+(3, 2);
 
 SELECT P."Name", C."Name"
 FROM Products P
