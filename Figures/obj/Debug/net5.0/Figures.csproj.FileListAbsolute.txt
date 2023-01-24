@@ -1,0 +1,11 @@
+C:\Users\smekt\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.deps.json
+C:\Users\smekt\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.dll
+C:\Users\smekt\source\repos\Figures\Figures\bin\Debug\net5.0\ref\Figures.dll
+C:\Users\smekt\source\repos\Figures\Figures\bin\Debug\net5.0\Figures.pdb
+C:\Users\smekt\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smekt\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.AssemblyInfoInputs.cache
+C:\Users\smekt\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.AssemblyInfo.cs
+C:\Users\smekt\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\smekt\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.dll
+C:\Users\smekt\source\repos\Figures\Figures\obj\Debug\net5.0\ref\Figures.dll
+C:\Users\smekt\source\repos\Figures\Figures\obj\Debug\net5.0\Figures.pdb

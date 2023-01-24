@@ -1,0 +1,15 @@
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Testing.dll
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Testing.pdb
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Figures.dll
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Figures.pdb
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\smekt\source\repos\Figures\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\smekt\source\repos\Figures\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\smekt\source\repos\Figures\Testing\obj\Debug\Testing.csproj.CopyComplete
+C:\Users\smekt\source\repos\Figures\Testing\obj\Debug\Testing.dll
+C:\Users\smekt\source\repos\Figures\Testing\obj\Debug\Testing.pdb
